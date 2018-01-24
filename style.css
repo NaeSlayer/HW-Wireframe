@@ -12,7 +12,7 @@ body {
 
 	background: #777;
 	font-size: 18px;
-	color: #666;
+	color: #777;
 	width: 960px;
 	margin-right: auto;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -24,7 +24,7 @@ header{
 	margin-top: 10px;
 	margin-bottom: 10px;
 	height: 100px;
-	background: white;
+	background: #ebebeb;
 	text-align: center;
 	padding-top: 20px;
 
@@ -36,7 +36,7 @@ nav {
 	margin-top: : 10px;
 	margin-bottom: 20px;
 	height: 100px;
-	background: white;
+	background: #ebebeb;
 	text-align: center;
 	padding-top: 20px;
 	
@@ -46,7 +46,7 @@ nav {
 }
 
 section {
-	background: white;
+	background: #ebebeb;
 	padding-top: 20px;
 	margin-right: : 20px;
 	margin-bottom: 20px;
@@ -68,12 +68,12 @@ article {
 }
 
 #div1 {
-	background: white;
+	background: #ebebeb;
 	padding-top: 10px;
 	padding-right: 20px;
 	padding-left: 20px;
 	padding-bottom: 20px;
-	color: #666;
+	color: #777;
 	margin: 10px;
 	height: 40px;
 	width: 90%;
@@ -82,12 +82,12 @@ article {
 }
 
 #div2 {
-	background: white;
+	background: #ebebeb;
 	padding-top: 10px;
 	padding-right: 20px;
 	padding-left: 20px;
 	padding-bottom: 20px;
-	color: #666;
+	color: #777;
 	margin: 10px;
 	height: 40px;
 	width: 90%;
@@ -96,7 +96,7 @@ article {
 
 
 aside {
-	background: white;
+	background: #ebebeb;
 	padding-top: 20px;
 	height: 300px;
 	text-align: center;
@@ -109,7 +109,7 @@ aside {
 
 
 footer {
-	background: white;
+	background: #ebebeb;
 	padding-top: 20px;
 	text-align: center;
 	height: 100px;
